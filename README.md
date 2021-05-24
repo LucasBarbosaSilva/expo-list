@@ -54,6 +54,6 @@ Para começar a entender o código vá para o arquivo **App.tsx**, ele é a raiz
 Navegue até o arquivo Navigation e depois para os arquivos das telas e vá tentando entender o código. Seu desafio é tentar fazer alguma coisa na segunda tela da aplicação.<br/>
 
 ## Para estudar
-1. Começar a ver como funcionam os componentes no Ract Native. A estrutura é conhecida (tags html), mas diferente da web onde a maioria das tags já estão disponíveis sem precisar de importação, no React Native (RN), precisamos importar tudo. View, Text, Image, todos são componetes do RN.<br/>
+1. Começar a ver como funcionam os componentes no React Native. A estrutura é conhecida (tags html), mas diferente da web onde a maioria das tags já estão disponíveis sem precisar de importação, no React Native (RN), precisamos importar tudo. View, Text, Image, todos são componetes do RN.<br/>
 2. Estudar a estilização em React Native, que usa o StylesSheet. Pode observar que em baixo de cada página tem um objeto desse tipo, contendo as estilizações. StyleSheet é basicamente o CSS do html, sendo que tudo que tem hífen no CSS, não tem hífen no SytleSheet. por exemplo: #CSS background-color: 'white' | #StykeSheet backgroundColor: 'white'.
 3. Estudar o consumo de uma api externa com Axios. Existem muitos vídeos falando sobre isso, mas a maioria é com o React da Web, porém o processo é exatamente o mesmo.
